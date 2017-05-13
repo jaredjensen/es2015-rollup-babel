@@ -1,0 +1,1 @@
+A bare-bones configuration for creating module-free JavaScript from ES2015 with rollup and babel.
